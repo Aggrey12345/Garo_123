@@ -1,0 +1,6 @@
+{
+  "name": "Vercel Ready React App",
+  "description": "A React application optimized for Vercel deployment with public asset structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
